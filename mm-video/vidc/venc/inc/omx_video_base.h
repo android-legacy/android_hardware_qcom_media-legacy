@@ -58,7 +58,7 @@ ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #include "OMX_QCOMExtns.h"
 #include "qc_omx_component.h"
 #include "omx_video_common.h"
-#include "extra_data_handler.h"
+#include "../../common/inc/extra_data_handler.h"
 #include <linux/videodev2.h>
 
 #ifdef _ANDROID_
